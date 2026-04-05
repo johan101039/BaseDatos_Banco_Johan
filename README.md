@@ -1,4 +1,4 @@
-# Base de Datos - Banco BCP
+# Base de Datos - Banco_Johan
 
 ## Descripción
 
