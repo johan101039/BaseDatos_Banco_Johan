@@ -1,6 +1,6 @@
-# Base de Datos - Banco_Johan
+# 💳 Base de Datos - Banco_Johan
 
-## Descripción
+## 📌 Descripción
 
 Este proyecto consiste en el diseño e implementación de una base de datos en MySQL que simula el funcionamiento de un sistema bancario.
 
@@ -18,7 +18,7 @@ Además, se desarrollaron 25 consultas SQL para analizar la información y obten
 
 ---
 
-## Estructura de la Base de Datos
+## 🧱 Estructura de la Base de Datos
 
 Las tablas principales son:
 
@@ -32,7 +32,7 @@ Las tablas principales son:
 
 ---
 
-## Tecnologías utilizadas
+## ⚙️ Tecnologías utilizadas
 
 - MySQL
 - SQL
@@ -41,7 +41,7 @@ Las tablas principales son:
 
 ---
 
-## Consultas realizadas
+## 📊 Consultas realizadas
 
 Se desarrollaron 25 consultas SQL:
 
@@ -73,7 +73,7 @@ Se desarrollaron 25 consultas SQL:
 
 ---
 
-## Desarrollo de las consultas
+## 🧠 Desarrollo de las consultas
 
 A continuación se explica cómo se desarrollaron las 25 consultas SQL:
 
@@ -129,7 +129,7 @@ A continuación se explica cómo se desarrollaron las 25 consultas SQL:
 
 ---
 
-## Cómo ejecutar el proyecto
+## 🚀 Cómo ejecutar el proyecto
 
 1. Abrir MySQL Workbench
 2. Ejecutar el archivo `Primera tarea.sql`
@@ -139,18 +139,18 @@ A continuación se explica cómo se desarrollaron las 25 consultas SQL:
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
 Aplicar conocimientos de bases de datos relacionales para analizar información bancaria mediante consultas SQL.
 
 ---
 
-## Autor
+## 👩‍💻 Autor
 
 **Johan Mendoza**
 
 ---
 
-## Notas
+## 📌 Notas
 
 Proyecto académico con fines educativos.
