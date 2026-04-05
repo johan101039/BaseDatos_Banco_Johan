@@ -132,7 +132,7 @@ A continuación se explica cómo se desarrollaron las 25 consultas SQL:
 ## Cómo ejecutar el proyecto
 
 1. Abrir MySQL Workbench
-2. Ejecutar el archivo `banco.sql`
+2. Ejecutar el archivo `Primera tarea.sql`
 3. Crear la base de datos
 4. Insertar los datos
 5. Ejecutar las consultas
